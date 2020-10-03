@@ -1,0 +1,5 @@
+"Ronaldo" AND "Brazil"
+"Trump" AND "Covid"
+"Trump" AND "Biden"
+"Trump" AND "Biden" NOT "Covid"
+"SARS-CoV-2"
