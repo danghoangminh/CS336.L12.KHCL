@@ -1,0 +1,170 @@
+THỰC HIỆN TRUY VẤN ẢNH THỨ 1
+ - Kết quả của ảnh truy vấn giống thứ 1 của các bộ đo -
+Bộ đo cô sin: 1.0
+Ảnh được truy vấn có số thứ tự: 135
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 2 của các bộ đo -
+Bộ đo cô sin: 0.7531119585037231
+Ảnh được truy vấn có số thứ tự: 189
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 3 của các bộ đo -
+Bộ đo cô sin: 0.7007980942726135
+Ảnh được truy vấn có số thứ tự: 183
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 4 của các bộ đo -
+Bộ đo cô sin: 0.6686755418777466
+Ảnh được truy vấn có số thứ tự: 171
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 5 của các bộ đo -
+Bộ đo cô sin: 0.6267896890640259
+Ảnh được truy vấn có số thứ tự: 199
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 6 của các bộ đo -
+Bộ đo cô sin: 0.6113458871841431
+Ảnh được truy vấn có số thứ tự: 126
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 7 của các bộ đo -
+Bộ đo cô sin: 0.6110539436340332
+Ảnh được truy vấn có số thứ tự: 190
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 8 của các bộ đo -
+Bộ đo cô sin: 0.5632014274597168
+Ảnh được truy vấn có số thứ tự: 110
+===============================================
+
+THỰC HIỆN TRUY VẤN ẢNH THỨ 2
+ - Kết quả của ảnh truy vấn giống thứ 1 của các bộ đo -
+Bộ đo cô sin: 1.000000238418579
+Ảnh được truy vấn có số thứ tự: 202
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 2 của các bộ đo -
+Bộ đo cô sin: 0.6115922927856445
+Ảnh được truy vấn có số thứ tự: 229
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 3 của các bộ đo -
+Bộ đo cô sin: 0.597849428653717
+Ảnh được truy vấn có số thứ tự: 207
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 4 của các bộ đo -
+Bộ đo cô sin: 0.561103105545044
+Ảnh được truy vấn có số thứ tự: 226
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 5 của các bộ đo -
+Bộ đo cô sin: 0.5587320923805237
+Ảnh được truy vấn có số thứ tự: 203
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 6 của các bộ đo -
+Bộ đo cô sin: 0.5361993908882141
+Ảnh được truy vấn có số thứ tự: 248
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 7 của các bộ đo -
+Bộ đo cô sin: 0.5171009302139282
+Ảnh được truy vấn có số thứ tự: 237
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 8 của các bộ đo -
+Bộ đo cô sin: 0.503940224647522
+Ảnh được truy vấn có số thứ tự: 215
+===============================================
+
+THỰC HIỆN TRUY VẤN ẢNH THỨ 3
+ - Kết quả của ảnh truy vấn giống thứ 1 của các bộ đo -
+Bộ đo cô sin: 0.9999999403953552
+Ảnh được truy vấn có số thứ tự: 215
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 2 của các bộ đo -
+Bộ đo cô sin: 0.6837723255157471
+Ảnh được truy vấn có số thứ tự: 226
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 3 của các bộ đo -
+Bộ đo cô sin: 0.6648354530334473
+Ảnh được truy vấn có số thứ tự: 233
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 4 của các bộ đo -
+Bộ đo cô sin: 0.6583337783813477
+Ảnh được truy vấn có số thứ tự: 209
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 5 của các bộ đo -
+Bộ đo cô sin: 0.5784425735473633
+Ảnh được truy vấn có số thứ tự: 235
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 6 của các bộ đo -
+Bộ đo cô sin: 0.5416276454925537
+Ảnh được truy vấn có số thứ tự: 67
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 7 của các bộ đo -
+Bộ đo cô sin: 0.5356013178825378
+Ảnh được truy vấn có số thứ tự: 207
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 8 của các bộ đo -
+Bộ đo cô sin: 0.5125433206558228
+Ảnh được truy vấn có số thứ tự: 49
+===============================================
+
+THỰC HIỆN TRUY VẤN ẢNH THỨ 4
+ - Kết quả của ảnh truy vấn giống thứ 1 của các bộ đo -
+Bộ đo cô sin: 0.9999998807907104
+Ảnh được truy vấn có số thứ tự: 232
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 2 của các bộ đo -
+Bộ đo cô sin: 0.3897925615310669
+Ảnh được truy vấn có số thứ tự: 240
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 3 của các bộ đo -
+Bộ đo cô sin: 0.3861469626426697
+Ảnh được truy vấn có số thứ tự: 248
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 4 của các bộ đo -
+Bộ đo cô sin: 0.3682204484939575
+Ảnh được truy vấn có số thứ tự: 201
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 5 của các bộ đo -
+Bộ đo cô sin: 0.3614021837711334
+Ảnh được truy vấn có số thứ tự: 202
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 6 của các bộ đo -
+Bộ đo cô sin: 0.35490846633911133
+Ảnh được truy vấn có số thứ tự: 67
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 7 của các bộ đo -
+Bộ đo cô sin: 0.34774619340896606
+Ảnh được truy vấn có số thứ tự: 220
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 8 của các bộ đo -
+Bộ đo cô sin: 0.34668421745300293
+Ảnh được truy vấn có số thứ tự: 249
+===============================================
+
+THỰC HIỆN TRUY VẤN ẢNH THỨ 5
+ - Kết quả của ảnh truy vấn giống thứ 1 của các bộ đo -
+Bộ đo cô sin: 0.5270419120788574
+Ảnh được truy vấn có số thứ tự: 245
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 2 của các bộ đo -
+Bộ đo cô sin: 0.5026017427444458
+Ảnh được truy vấn có số thứ tự: 239
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 3 của các bộ đo -
+Bộ đo cô sin: 0.4910811483860016
+Ảnh được truy vấn có số thứ tự: 233
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 4 của các bộ đo -
+Bộ đo cô sin: 0.4599667489528656
+Ảnh được truy vấn có số thứ tự: 204
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 5 của các bộ đo -
+Bộ đo cô sin: 0.44678595662117004
+Ảnh được truy vấn có số thứ tự: 246
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 6 của các bộ đo -
+Bộ đo cô sin: 0.44185197353363037
+Ảnh được truy vấn có số thứ tự: 227
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 7 của các bộ đo -
+Bộ đo cô sin: 0.42168140411376953
+Ảnh được truy vấn có số thứ tự: 215
+===============================================
+ - Kết quả của ảnh truy vấn giống thứ 8 của các bộ đo -
+Bộ đo cô sin: 0.3966587781906128
+Ảnh được truy vấn có số thứ tự: 235
+===============================================
+
